@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Power0f2\Power0f2\obj\Debug\net6.0\Power0f2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Power0f2\Power0f2\obj\Debug\net6.0\Power0f2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Power0f2\Power0f2\obj\Debug\net6.0\Power0f2.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Power0f2\Power0f2\obj\Debug\net6.0\Power0f2.AssemblyInfo.cs
+C:\Users\hp\source\repos\Power0f2\Power0f2\obj\Debug\net6.0\Power0f2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Power0f2\Power0f2\bin\Debug\net6.0\Power0f2.exe
+C:\Users\hp\source\repos\Power0f2\Power0f2\bin\Debug\net6.0\Power0f2.deps.json
+C:\Users\hp\source\repos\Power0f2\Power0f2\bin\Debug\net6.0\Power0f2.runtimeconfig.json
+C:\Users\hp\source\repos\Power0f2\Power0f2\bin\Debug\net6.0\Power0f2.dll
+C:\Users\hp\source\repos\Power0f2\Power0f2\bin\Debug\net6.0\Power0f2.pdb
+C:\Users\hp\source\repos\Power0f2\Power0f2\obj\Debug\net6.0\Power0f2.dll
+C:\Users\hp\source\repos\Power0f2\Power0f2\obj\Debug\net6.0\refint\Power0f2.dll
+C:\Users\hp\source\repos\Power0f2\Power0f2\obj\Debug\net6.0\Power0f2.pdb
+C:\Users\hp\source\repos\Power0f2\Power0f2\obj\Debug\net6.0\Power0f2.genruntimeconfig.cache
+C:\Users\hp\source\repos\Power0f2\Power0f2\obj\Debug\net6.0\ref\Power0f2.dll

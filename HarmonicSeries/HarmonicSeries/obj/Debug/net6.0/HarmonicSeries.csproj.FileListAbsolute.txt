@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\bin\Debug\net6.0\HarmonicSeries.exe
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\bin\Debug\net6.0\HarmonicSeries.deps.json
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\bin\Debug\net6.0\HarmonicSeries.runtimeconfig.json
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\bin\Debug\net6.0\HarmonicSeries.dll
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\bin\Debug\net6.0\HarmonicSeries.pdb
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\obj\Debug\net6.0\HarmonicSeries.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\obj\Debug\net6.0\HarmonicSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\obj\Debug\net6.0\HarmonicSeries.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\obj\Debug\net6.0\HarmonicSeries.AssemblyInfo.cs
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\obj\Debug\net6.0\HarmonicSeries.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\obj\Debug\net6.0\HarmonicSeries.dll
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\obj\Debug\net6.0\refint\HarmonicSeries.dll
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\obj\Debug\net6.0\HarmonicSeries.pdb
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\obj\Debug\net6.0\HarmonicSeries.genruntimeconfig.cache
+C:\Users\hp\source\repos\HarmonicSeries\HarmonicSeries\obj\Debug\net6.0\ref\HarmonicSeries.dll

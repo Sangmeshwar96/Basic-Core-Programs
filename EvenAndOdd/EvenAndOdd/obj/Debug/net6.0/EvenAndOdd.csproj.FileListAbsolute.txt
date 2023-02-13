@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\bin\Debug\net6.0\EvenAndOdd.exe
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\bin\Debug\net6.0\EvenAndOdd.deps.json
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\bin\Debug\net6.0\EvenAndOdd.runtimeconfig.json
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\bin\Debug\net6.0\EvenAndOdd.dll
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\bin\Debug\net6.0\EvenAndOdd.pdb
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\obj\Debug\net6.0\EvenAndOdd.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\obj\Debug\net6.0\EvenAndOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\obj\Debug\net6.0\EvenAndOdd.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\obj\Debug\net6.0\EvenAndOdd.AssemblyInfo.cs
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\obj\Debug\net6.0\EvenAndOdd.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\obj\Debug\net6.0\EvenAndOdd.dll
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\obj\Debug\net6.0\refint\EvenAndOdd.dll
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\obj\Debug\net6.0\EvenAndOdd.pdb
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\obj\Debug\net6.0\EvenAndOdd.genruntimeconfig.cache
+C:\Users\hp\source\repos\EvenAndOdd\EvenAndOdd\obj\Debug\net6.0\ref\EvenAndOdd.dll

@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\bin\Debug\net6.0\RemainderAndQuotient.exe
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\bin\Debug\net6.0\RemainderAndQuotient.deps.json
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\bin\Debug\net6.0\RemainderAndQuotient.runtimeconfig.json
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\bin\Debug\net6.0\RemainderAndQuotient.dll
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\bin\Debug\net6.0\RemainderAndQuotient.pdb
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\obj\Debug\net6.0\RemainderAndQuotient.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\obj\Debug\net6.0\RemainderAndQuotient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\obj\Debug\net6.0\RemainderAndQuotient.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\obj\Debug\net6.0\RemainderAndQuotient.AssemblyInfo.cs
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\obj\Debug\net6.0\RemainderAndQuotient.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\obj\Debug\net6.0\RemainderAndQuotient.dll
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\obj\Debug\net6.0\refint\RemainderAndQuotient.dll
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\obj\Debug\net6.0\RemainderAndQuotient.pdb
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\obj\Debug\net6.0\RemainderAndQuotient.genruntimeconfig.cache
+C:\Users\hp\source\repos\RemainderAndQuotient\RemainderAndQuotient\obj\Debug\net6.0\ref\RemainderAndQuotient.dll

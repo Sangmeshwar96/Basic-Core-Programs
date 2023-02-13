@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\bin\Debug\net6.0\VowelOrConsonent.exe
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\bin\Debug\net6.0\VowelOrConsonent.deps.json
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\bin\Debug\net6.0\VowelOrConsonent.runtimeconfig.json
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\bin\Debug\net6.0\VowelOrConsonent.dll
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\bin\Debug\net6.0\VowelOrConsonent.pdb
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\net6.0\VowelOrConsonent.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\net6.0\VowelOrConsonent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\net6.0\VowelOrConsonent.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\net6.0\VowelOrConsonent.AssemblyInfo.cs
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\net6.0\VowelOrConsonent.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\net6.0\VowelOrConsonent.dll
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\net6.0\refint\VowelOrConsonent.dll
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\net6.0\VowelOrConsonent.pdb
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\net6.0\VowelOrConsonent.genruntimeconfig.cache
+C:\Users\hp\source\repos\VowelOrConsonent\VowelOrConsonent\obj\Debug\net6.0\ref\VowelOrConsonent.dll
